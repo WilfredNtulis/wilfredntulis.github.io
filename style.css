@@ -712,7 +712,7 @@ a img.aligncenter {
 
 .box-slider .carousel-control-prev{
 	border-radius: 2px;
-	background: #1612ee;
+	background: transparent;
 	position: absolute;
 	left: 0px;
 	font-size: 38px;
@@ -724,7 +724,7 @@ a img.aligncenter {
 }
 .box-slider .carousel-control-next{
 	border-radius: 2px;
-	background: #1612ee;
+	background: transparent;
 	position: absolute;
 	right: 0px;
 	font-size: 38px;
